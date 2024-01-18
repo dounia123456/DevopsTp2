@@ -1,5 +1,5 @@
 name: Github Actions With Docker
-run-name: ${{ github.actor }} is testing out GitHub Actions with Docker🚀
+run-name: ${{ github.actor }} is teesting out GitHub Actions with Docker🚀
 on:
   pull_request:
     types:
